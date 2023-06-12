@@ -1,0 +1,3 @@
+Procfile : 실행할 파이썬 파일 선택
+
+requirements.txt : 파이썬 파일에 import한, 실행하려면 필요한 pip로 다운로드 한 것들 명시
